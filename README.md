@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💬 I'm 23 years old and currently living in Brazil. I'm work as a Flutter Developer, with practical experience building mobile applications using BLoC, Clean Architecture, and REST APIs. I've worked on both corporate and freelance projects, applying responsive UI/UX and integrating with internal systems and external APIs.<br><br>📊 I also have experience with SQL, basic  Java Spring and Azure AI (OCR). I'm certified as an Azure AI Engineer Associate and constantly seeking to improve in areas like architecture, testing, and mobile.<br><br>⚡ In my free time, I enjoy reading manga and comics, watching movies, and playing games. I believe personal interests enrich our creativity and help us solve problems with a broader perspective.</p>
+<p align="left">💬 I'm 23 years old and currently living in Brazil. I'm work as a Flutter Developer, with practical experience building mobile applications using BLoC, Clean Architecture, and REST APIs. I've worked on both corporate and freelance projects, applying responsive UI/UX and integrating with internal systems and external APIs.<br><br>📊 I also have experience with SQL, Postegres, Java Spring, basic Python and Azure AI (OCR). I'm certified as an Azure AI Engineer Associate and constantly seeking to improve in areas like architecture, testing, and mobile.<br><br>⚡ In my free time, I enjoy reading manga and comics, watching movies, and playing games. I believe personal interests enrich our creativity and help us solve problems with a broader perspective.</p>
 
 ###
 
